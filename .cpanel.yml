@@ -3,9 +3,6 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/samgunof/node/kpop_database/
     - /bin/cp -R src $DEPLOYPATH
-    - /bin/cp .cpanel.yml $DEPLOYPATH
-    - /bin/cp .gitattributes $DEPLOYPATH
-    - /bin/cp .gitignore $DEPLOYPATH
     - /bin/cp .sequelizerc $DEPLOYPATH
     - /bin/cp index.js $DEPLOYPATH
     - /bin/cp package.json $DEPLOYPATH

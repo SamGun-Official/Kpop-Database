@@ -14,6 +14,9 @@ module.exports = {
 					japan_name: "アイリーン",
 					profile_pic_url: "https://kprofiles.com/wp-content/uploads/2016/04/FiGKCAyaUAAlD4R-533x800.jpg",
 					birth_date: "1991-03-29",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 1,
@@ -23,6 +26,9 @@ module.exports = {
 					japan_name: "スルギ",
 					profile_pic_url: "https://kprofiles.com/wp-content/uploads/2016/04/FiGKMmSaYAEiek5-533x800.jpg",
 					birth_date: "1994-02-10",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 1,
@@ -32,6 +38,9 @@ module.exports = {
 					japan_name: "ウェンディ",
 					profile_pic_url: "https://kprofiles.com/wp-content/uploads/2016/04/FiGKWwLakAEitXN-900x600.jpg",
 					birth_date: "1994-02-21",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 1,
@@ -41,6 +50,9 @@ module.exports = {
 					japan_name: "ジョイ",
 					profile_pic_url: "https://kprofiles.com/wp-content/uploads/2016/04/FiAr-RyaMAEC7tM-533x800.jpg",
 					birth_date: "1996-09-03",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 1,
@@ -50,6 +62,9 @@ module.exports = {
 					japan_name: "イェリ",
 					profile_pic_url: "https://kprofiles.com/wp-content/uploads/2016/04/FiBAnScagAAaq90-533x800.jpg",
 					birth_date: "1999-03-05",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 2,
@@ -59,6 +74,9 @@ module.exports = {
 					japan_name: "ナヨン",
 					profile_pic_url: "https://lv2-cdn.azureedge.net/twice/17e2ec6cfbf64aedaae787449ee0f934-1.jpg",
 					birth_date: "1995-09-22",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 2,
@@ -68,6 +86,9 @@ module.exports = {
 					japan_name: "ジョンヨン",
 					profile_pic_url: "https://lv2-cdn.azureedge.net/twice/416bbc769e7942c6925803be69a0b44d-2.jpg",
 					birth_date: "1996-11-01",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 2,
@@ -77,6 +98,9 @@ module.exports = {
 					japan_name: "モモ",
 					profile_pic_url: "https://lv2-cdn.azureedge.net/twice/5136bcc3f155436588c0e91c9b4591df-3.jpg",
 					birth_date: "1996-11-09",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 2,
@@ -86,6 +110,9 @@ module.exports = {
 					japan_name: "サナ",
 					profile_pic_url: "https://lv2-cdn.azureedge.net/twice/5d45665135964abba0353777ae85a4cf-4.jpg",
 					birth_date: "1996-12-29",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 2,
@@ -95,6 +122,9 @@ module.exports = {
 					japan_name: "ジヒョ",
 					profile_pic_url: "https://lv2-cdn.azureedge.net/twice/c78a923e748741a591386707c5f39c2a-5.jpg",
 					birth_date: "1997-02-01",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 2,
@@ -104,6 +134,9 @@ module.exports = {
 					japan_name: "ミナ",
 					profile_pic_url: "https://lv2-cdn.azureedge.net/twice/bdc4f01bf43543909df096d836ee5f4c-6.jpg",
 					birth_date: "1997-03-24",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 2,
@@ -113,6 +146,9 @@ module.exports = {
 					japan_name: "ダヒョン",
 					profile_pic_url: "https://lv2-cdn.azureedge.net/twice/624041d418384086a0470a04c41bf029-7.jpg",
 					birth_date: "1998-05-28",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 2,
@@ -122,6 +158,9 @@ module.exports = {
 					japan_name: "チェヨン",
 					profile_pic_url: "https://lv2-cdn.azureedge.net/twice/9b81a71aefa8452b9da521d74c488475-8.jpg",
 					birth_date: "1999-04-23",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 2,
@@ -131,6 +170,9 @@ module.exports = {
 					japan_name: "ツウィ",
 					profile_pic_url: "https://lv2-cdn.azureedge.net/twice/8b12f1d5bf09401e9a3bb73f63286630-9.jpg",
 					birth_date: "1999-06-14",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 3,
@@ -140,6 +182,9 @@ module.exports = {
 					japan_name: "カリナ",
 					profile_pic_url: "https://pbs.twimg.com/media/FuC0ZxHaYAMsnx1?format=jpg&name=large",
 					birth_date: "2000-04-11",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 3,
@@ -149,6 +194,9 @@ module.exports = {
 					japan_name: "ジゼル",
 					profile_pic_url: "https://pbs.twimg.com/media/FuFe2wDaIAIQAD5?format=jpg&name=4096x4096",
 					birth_date: "2001-10-30",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 3,
@@ -158,6 +206,9 @@ module.exports = {
 					japan_name: "ウィンター",
 					profile_pic_url: "https://pbs.twimg.com/media/FuFetC6acAAJCpL?format=jpg&name=4096x4096",
 					birth_date: "2001-01-01",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 3,
@@ -167,6 +218,9 @@ module.exports = {
 					japan_name: "ニンニン",
 					profile_pic_url: "https://pbs.twimg.com/media/FuAVROpacAAwkYp?format=jpg&name=4096x4096",
 					birth_date: "2002-10-23",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 4,
@@ -176,6 +230,9 @@ module.exports = {
 					japan_name: "-",
 					profile_pic_url: "https://kprofiles.com/wp-content/uploads/2022/07/5DFC115E-AFEE-4962-931D-53B5A5995B64-533x800.jpeg",
 					birth_date: "2004-05-07",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 4,
@@ -185,6 +242,9 @@ module.exports = {
 					japan_name: "-",
 					profile_pic_url: "https://kprofiles.com/wp-content/uploads/2022/07/7CD920D6-9B39-439C-BCC6-4C54C59BAE84-533x800.jpeg",
 					birth_date: "2004-10-06",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 4,
@@ -194,6 +254,9 @@ module.exports = {
 					japan_name: "-",
 					profile_pic_url: "https://kprofiles.com/wp-content/uploads/2022/07/D95A6A7B-1428-406F-A869-9711D5067974-533x800.jpeg",
 					birth_date: "2005-04-11",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 4,
@@ -203,6 +266,9 @@ module.exports = {
 					japan_name: "-",
 					profile_pic_url: "https://kprofiles.com/wp-content/uploads/2022/07/4CE8A33A-7F51-49A5-9865-15B03A85D3CE-533x800.jpeg",
 					birth_date: "2006-05-15",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 4,
@@ -212,6 +278,9 @@ module.exports = {
 					japan_name: "-",
 					profile_pic_url: "https://kprofiles.com/wp-content/uploads/2022/07/993DF58B-E0FB-40A9-8FCD-40B04844F017-533x800.jpeg",
 					birth_date: "2008-04-21",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 
 				{
@@ -222,6 +291,9 @@ module.exports = {
 					japan_name: "ジユ",
 					profile_pic_url: "https://kpopping.com/documents/57/1/750/JiU-fullBodyPicture(3).webp?v=de937",
 					birth_date: "1994-05-17",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 5,
@@ -231,6 +303,9 @@ module.exports = {
 					japan_name: "スア",
 					profile_pic_url: "https://kpopping.com/documents/bf/0/750/SuA-fullBodyPicture(6).webp?v=de937",
 					birth_date: "1994-08-10",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 5,
@@ -240,6 +315,9 @@ module.exports = {
 					japan_name: "シヨン",
 					profile_pic_url: "https://kpopping.com/documents/d9/4/750/Siyeon-fullBodyPicture(5).webp?v=de937",
 					birth_date: "1995-10-01",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 5,
@@ -249,6 +327,9 @@ module.exports = {
 					japan_name: "ハンドン",
 					profile_pic_url: "https://kpopping.com/documents/c6/3/750/Handong-fullBodyPicture(3).webp?v=de937",
 					birth_date: "1996-03-26",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 5,
@@ -258,6 +339,9 @@ module.exports = {
 					japan_name: "ユヒョン",
 					profile_pic_url: "https://kpopping.com/documents/f2/2/750/Yoohyeon-fullBodyPicture(3).webp?v=de937",
 					birth_date: "1997-01-07",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 5,
@@ -267,6 +351,9 @@ module.exports = {
 					japan_name: "ダミ",
 					profile_pic_url: "https://kpopping.com/documents/e1/5/750/Dami-fullBodyPicture(6).webp?v=de937",
 					birth_date: "1997-03-07",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 5,
@@ -276,6 +363,9 @@ module.exports = {
 					japan_name: "ガヒョン",
 					profile_pic_url: "https://kpopping.com/documents/c2/3/750/Gahyeon-fullBodyPicture(3).webp?v=de937",
 					birth_date: "1999-02-03",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 6,
@@ -285,6 +375,9 @@ module.exports = {
 					japan_name: "-",
 					profile_pic_url: "https://pbs.twimg.com/media/FujDRRRaUAM8p0F?format=jpg&name=4096x4096",
 					birth_date: "2003-09-01",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 6,
@@ -294,6 +387,9 @@ module.exports = {
 					japan_name: "-",
 					profile_pic_url: "https://pbs.twimg.com/media/FujDRRTaAAEpAF4?format=jpg&name=4096x4096",
 					birth_date: "2002-09-24",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 6,
@@ -303,6 +399,9 @@ module.exports = {
 					japan_name: "-",
 					profile_pic_url: "https://pbs.twimg.com/media/FujDRRQaMAIXr48?format=jpg&name=4096x4096",
 					birth_date: "2004-02-03",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 6,
@@ -312,6 +411,9 @@ module.exports = {
 					japan_name: "-",
 					profile_pic_url: "https://pbs.twimg.com/media/FujGCR9akAA-lzZ?format=jpg&name=4096x4096",
 					birth_date: "2004-08-31",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 6,
@@ -321,6 +423,9 @@ module.exports = {
 					japan_name: "-",
 					profile_pic_url: "https://pbs.twimg.com/media/FujGCR_agAEWIXZ?format=jpg&name=4096x4096",
 					birth_date: "2004-11-21",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 6,
@@ -330,6 +435,9 @@ module.exports = {
 					japan_name: "-",
 					profile_pic_url: "https://pbs.twimg.com/media/FujGCR_agAMOWGF?format=jpg&name=4096x4096",
 					birth_date: "2007-02-21",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 7,
@@ -339,6 +447,9 @@ module.exports = {
 					japan_name: "-",
 					profile_pic_url: "https://kprofiles.com/wp-content/uploads/2023/04/CHAEWON-LE-SS-640x800.jpg",
 					birth_date: "2000-08-01",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 7,
@@ -348,6 +459,9 @@ module.exports = {
 					japan_name: "-",
 					profile_pic_url: "https://kprofiles.com/wp-content/uploads/2023/04/SAKURA-LE-SS-640x800.jpg",
 					birth_date: "1998-03-19",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 7,
@@ -357,6 +471,9 @@ module.exports = {
 					japan_name: "-",
 					profile_pic_url: "https://kprofiles.com/wp-content/uploads/2023/04/YUNJIN-LE-SS-640x800.jpg",
 					birth_date: "2001-10-08",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 7,
@@ -366,6 +483,9 @@ module.exports = {
 					japan_name: "-",
 					profile_pic_url: "https://kprofiles.com/wp-content/uploads/2023/04/Kazuha-LE-SS-640x800.jpg",
 					birth_date: "2003-08-09",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 7,
@@ -375,6 +495,9 @@ module.exports = {
 					japan_name: "-",
 					profile_pic_url: "https://kprofiles.com/wp-content/uploads/2023/04/EUNCHAE-LE-SS-640x800.jpg",
 					birth_date: "2006-11-10",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 8,
@@ -384,6 +507,9 @@ module.exports = {
 					japan_name: "-",
 					profile_pic_url: "https://wiki.d-addicts.com/images/4/4c/IU.jpg",
 					birth_date: "1993-05-16",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 9,
@@ -393,6 +519,9 @@ module.exports = {
 					japan_name: "-",
 					profile_pic_url: "https://kpopping.com/documents/36/2/750/Gyuri-fullBodyPicture(6).webp?v=f6bff",
 					birth_date: "1988-05-21",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 9,
@@ -402,6 +531,9 @@ module.exports = {
 					japan_name: "-",
 					profile_pic_url: "https://kpopping.com/documents/99/4/750/Seungyeon-fullBodyPicture(3).webp?v=de937",
 					birth_date: "1988-07-24",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 9,
@@ -411,6 +543,9 @@ module.exports = {
 					japan_name: "-",
 					profile_pic_url: "https://kpopping.com/documents/02/0/750/Nicole-fullBodyPicture(2).webp?v=de937",
 					birth_date: "1991-10-07",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 9,
@@ -420,6 +555,9 @@ module.exports = {
 					japan_name: "-",
 					profile_pic_url: "https://kpopping.com/documents/f9/1/750/Kang-Ji-Young-fullBodyPicture(1).webp?v=f6bff",
 					birth_date: "1994-01-18",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 9,
@@ -429,6 +567,9 @@ module.exports = {
 					japan_name: "-",
 					profile_pic_url: "https://kpopping.com/documents/de/3/750/Youngji-fullBodyPicture(1).webp?v=de937",
 					birth_date: "1994-08-30",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 10,
@@ -438,6 +579,9 @@ module.exports = {
 					japan_name: "-",
 					profile_pic_url: "https://kpopping.com/documents/8f/5/750/Yeji-fullBodyPicture(13).webp?v=de937",
 					birth_date: "2000-05-26",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 10,
@@ -447,6 +591,9 @@ module.exports = {
 					japan_name: "-",
 					profile_pic_url: "https://kpopping.com/documents/67/3/750/Lia-fullBodyPicture(8).webp?v=de937",
 					birth_date: "2000-07-21",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 10,
@@ -456,6 +603,9 @@ module.exports = {
 					japan_name: "-",
 					profile_pic_url: "https://kpopping.com/documents/db/3/750/Ryujin-fullBodyPicture(7).webp?v=de937",
 					birth_date: "2001-04-17",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 10,
@@ -465,6 +615,9 @@ module.exports = {
 					japan_name: "-",
 					profile_pic_url: "https://kpopping.com/documents/f7/4/750/Chaeryeong-fullBodyPicture(7).webp?v=de937",
 					birth_date: "2001-06-05",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 10,
@@ -474,6 +627,9 @@ module.exports = {
 					japan_name: "-",
 					profile_pic_url: "https://kpopping.com/documents/17/4/750/Yuna-fullBodyPicture(21).webp?v=de937",
 					birth_date: "2003-12-09",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 11,
@@ -483,6 +639,9 @@ module.exports = {
 					japan_name: "-",
 					profile_pic_url: "https://kprofiles.com/wp-content/uploads/2021/08/6324A695-DB1D-434F-BB80-79F7DB701E29-900x600.jpeg",
 					birth_date: "2003-02-25",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 11,
@@ -492,6 +651,9 @@ module.exports = {
 					japan_name: "-",
 					profile_pic_url: "https://kprofiles.com/wp-content/uploads/2021/08/4E61038C-E146-4E9D-B32C-C6E8D9B74DD5-900x600.jpeg",
 					birth_date: "2002-10-17",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 11,
@@ -501,6 +663,9 @@ module.exports = {
 					japan_name: "-",
 					profile_pic_url: "https://pbs.twimg.com/media/FqxB4TPaMAEFzHZ?format=jpg&name=4096x4096",
 					birth_date: "2004-01-26",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 11,
@@ -510,6 +675,9 @@ module.exports = {
 					japan_name: "-",
 					profile_pic_url: "https://pbs.twimg.com/media/FqxCB8WaYAEysss?format=jpg&name=4096x4096",
 					birth_date: "2004-12-28",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 11,
@@ -519,6 +687,9 @@ module.exports = {
 					japan_name: "-",
 					profile_pic_url: "https://kprofiles.com/wp-content/uploads/2021/08/4A45C10F-9870-4456-A993-6FF262E8E313-900x600.jpeg",
 					birth_date: "2005-04-13",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 				{
 					artist_id: 11,
@@ -528,6 +699,9 @@ module.exports = {
 					japan_name: "-",
 					profile_pic_url: "https://pbs.twimg.com/media/FqxCWb8akAEI8P-?format=jpg&name=4096x4096",
 					birth_date: "2006-05-26",
+					created_at: new Date(),
+					updated_at: new Date(),
+					deleted_at: null,
 				},
 			],
 			{}
