@@ -5,6 +5,9 @@ const connection = new sequelize(process.env.DB_DATABASE, process.env.DB_USERNAM
 	host: process.env.DB_HOSTNAME,
 	port: 3306,
 	dialect: process.env.DB_DIALECT,
+	dialectOptions: {
+		timezone: process.env.DB_TIMEZONE,
+	},
 	define: {
 		charset: "utf8mb4",
 		collate: "utf8mb4_general_ci",
