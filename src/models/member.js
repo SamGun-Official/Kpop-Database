@@ -31,7 +31,7 @@ module.exports = (sequelize) => {
 			},
 			japan_name: {
 				type: DataTypes.STRING(255),
-				allowNull: true,
+				allowNull: false,
 			},
 			profile_pic_url: {
 				type: DataTypes.TEXT("long"),
@@ -39,10 +39,6 @@ module.exports = (sequelize) => {
 			},
 			birth_date: {
 				type: DataTypes.DATE,
-				allowNull: false,
-			},
-			team_position: {
-				type: DataTypes.TEXT,
 				allowNull: false,
 			},
 		},

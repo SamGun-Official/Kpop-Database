@@ -27,7 +27,7 @@ module.exports = {
 			},
 			japan_name: {
 				type: Sequelize.STRING(255),
-				allowNull: true,
+				allowNull: false,
 			},
 			profile_pic_url: {
 				type: Sequelize.TEXT("long"),
@@ -35,10 +35,6 @@ module.exports = {
 			},
 			birth_date: {
 				type: Sequelize.DATE,
-				allowNull: false,
-			},
-			team_position: {
-				type: Sequelize.TEXT,
 				allowNull: false,
 			},
 			created_at: {
