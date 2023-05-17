@@ -6,4 +6,9 @@ module.exports = {
 	username: process.env.DB_USERNAME,
 	password: process.env.DB_PASSWORD,
 	dialect: process.env.DB_DIALECT,
+	define: {
+		charset: "utf8mb4",
+		collate: "utf8mb4_general_ci",
+	},
+	timezone: process.env.DB_TIMEZONE,
 };
