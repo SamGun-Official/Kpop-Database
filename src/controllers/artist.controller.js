@@ -34,10 +34,10 @@ module.exports = {
 				where: {
 					[Op.or]: {
 						stage_name: {
-							[Op.like]: "%" + req.query.keyword + "%",
+							[Op.substring]: req.query.keyword,
 						},
 						korean_name: {
-							[Op.like]: "%" + req.query.keyword + "%",
+							[Op.substring]: req.query.keyword,
 						},
 					},
 				},
