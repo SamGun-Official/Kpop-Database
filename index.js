@@ -28,9 +28,11 @@ Favourite.associate({ Account });
 
 /* ===== ROUTES ===== */
 const artistRouter = require("./src/routes/artist.routes");
+const profileRouter = require("./src/routes/profile.routes");
 const memberRouter = require("./src/routes/member.routes");
 
 app.use(process.env.BASE_URL + "/api/artists", artistRouter);
+app.use(process.env.BASE_URL + "/api/profiles", profileRouter);
 app.use(process.env.BASE_URL + "/api/members", memberRouter);
 
 app.get(process.env.BASE_URL, (req, res) => {
