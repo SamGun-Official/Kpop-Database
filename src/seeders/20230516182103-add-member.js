@@ -7,6 +7,7 @@ module.exports = {
 			"members",
 			[
 				{
+					id: 1,
 					artist_id: 1,
 					full_name: "Bae Joo-hyun",
 					stage_name: "Irene",
@@ -19,6 +20,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 2,
 					artist_id: 1,
 					full_name: "Kang Seul-gi",
 					stage_name: "Seulgi",
@@ -31,6 +33,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 3,
 					artist_id: 1,
 					full_name: "Son Seung-wan",
 					stage_name: "Wendy",
@@ -43,6 +46,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 4,
 					artist_id: 1,
 					full_name: "Park Soo-young",
 					stage_name: "Joy",
@@ -55,6 +59,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 5,
 					artist_id: 1,
 					full_name: "Kim Ye-rim",
 					stage_name: "Yeri",
@@ -67,6 +72,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 6,
 					artist_id: 2,
 					full_name: "Im Na-yeon",
 					stage_name: "Nayeon",
@@ -79,6 +85,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 7,
 					artist_id: 2,
 					full_name: "Yoo Jeong-yeon",
 					stage_name: "Jeongyeon",
@@ -91,6 +98,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 8,
 					artist_id: 2,
 					full_name: "Hirai Momo",
 					stage_name: "Momo",
@@ -103,6 +111,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 9,
 					artist_id: 2,
 					full_name: "Minatozaki Sana",
 					stage_name: "Sana",
@@ -115,6 +124,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 10,
 					artist_id: 2,
 					full_name: "Park Ji-hyo",
 					stage_name: "Jihyo",
@@ -127,6 +137,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 11,
 					artist_id: 2,
 					full_name: "Myoui Mina",
 					stage_name: "Mina",
@@ -139,6 +150,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 12,
 					artist_id: 2,
 					full_name: "Kim Da-hyun",
 					stage_name: "Dahyun",
@@ -151,6 +163,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 13,
 					artist_id: 2,
 					full_name: "Son Chae-young",
 					stage_name: "Chaeyoung",
@@ -163,6 +176,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 14,
 					artist_id: 2,
 					full_name: "Chou Tzuyu",
 					stage_name: "Tzuyu",
@@ -175,6 +189,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 15,
 					artist_id: 3,
 					full_name: "Yoo Ji-min",
 					stage_name: "Karina",
@@ -187,6 +202,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 16,
 					artist_id: 3,
 					full_name: "Aeri Uchinaga",
 					stage_name: "Giselle",
@@ -199,6 +215,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 17,
 					artist_id: 3,
 					full_name: "Kim Min-jeong",
 					stage_name: "Winter",
@@ -211,6 +228,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 18,
 					artist_id: 3,
 					full_name: "Ning Yizhuo",
 					stage_name: "Ningning",
@@ -223,6 +241,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 19,
 					artist_id: 4,
 					full_name: "Kim Minji",
 					stage_name: "Minji",
@@ -235,6 +254,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 20,
 					artist_id: 4,
 					full_name: "Hanni Pham",
 					stage_name: "Hanni",
@@ -247,6 +267,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 21,
 					artist_id: 4,
 					full_name: "Danielle Marsh",
 					stage_name: "Danielle",
@@ -259,6 +280,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 22,
 					artist_id: 4,
 					full_name: "Kang Haerin",
 					stage_name: "Haerin",
@@ -271,6 +293,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 23,
 					artist_id: 4,
 					full_name: "Lee Hyein",
 					stage_name: "Hyein",
@@ -282,8 +305,8 @@ module.exports = {
 					updated_at: new Date(),
 					deleted_at: null,
 				},
-
 				{
+					id: 24,
 					artist_id: 5,
 					full_name: "Kim Min-ji",
 					stage_name: "JiU",
@@ -296,6 +319,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 25,
 					artist_id: 5,
 					full_name: "Kim Bo-ra",
 					stage_name: "SuA",
@@ -308,6 +332,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 26,
 					artist_id: 5,
 					full_name: "Lee Si-yeon",
 					stage_name: "Siyeon",
@@ -320,6 +345,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 27,
 					artist_id: 5,
 					full_name: "Han Dong",
 					stage_name: "Handong",
@@ -332,6 +358,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 28,
 					artist_id: 5,
 					full_name: "Kim Yoo-hyeon",
 					stage_name: "Yoohyeon",
@@ -344,6 +371,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 29,
 					artist_id: 5,
 					full_name: "Lee Yu-bin",
 					stage_name: "Dami",
@@ -356,6 +384,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 30,
 					artist_id: 5,
 					full_name: "Lee Ga-hyeon",
 					stage_name: "Gahyeon",
@@ -368,6 +397,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 31,
 					artist_id: 6,
 					full_name: "An Yu-jin",
 					stage_name: "Yujin",
@@ -380,6 +410,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 32,
 					artist_id: 6,
 					full_name: "Kim Ga-eul",
 					stage_name: "Gaeul",
@@ -392,6 +423,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 33,
 					artist_id: 6,
 					full_name: "Naoi Rei",
 					stage_name: "Rei",
@@ -404,6 +436,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 34,
 					artist_id: 6,
 					full_name: "Jang Won-young",
 					stage_name: "Wonyoung",
@@ -416,6 +449,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 35,
 					artist_id: 6,
 					full_name: "Kim Ji-won",
 					stage_name: "Liz",
@@ -428,6 +462,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 36,
 					artist_id: 6,
 					full_name: "Lee Hyun-seo",
 					stage_name: "Leeseo",
@@ -440,6 +475,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 37,
 					artist_id: 7,
 					full_name: "Kim Chaewon",
 					stage_name: "Chaewon",
@@ -452,6 +488,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 38,
 					artist_id: 7,
 					full_name: "Miyawaki Sakura",
 					stage_name: "Sakura",
@@ -464,6 +501,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 39,
 					artist_id: 7,
 					full_name: "Huh Yun-Jin",
 					stage_name: "Yunjin",
@@ -476,6 +514,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 40,
 					artist_id: 7,
 					full_name: "Nakamura Kazuha",
 					stage_name: "Kazuha",
@@ -488,6 +527,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 41,
 					artist_id: 7,
 					full_name: "Hong Eun-chae",
 					stage_name: "Eunchae",
@@ -500,6 +540,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 42,
 					artist_id: 8,
 					full_name: "Lee Ji-eun",
 					stage_name: "IU",
@@ -512,6 +553,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 43,
 					artist_id: 9,
 					full_name: "Park Gyu-ri",
 					stage_name: "Gyuri",
@@ -524,6 +566,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 44,
 					artist_id: 9,
 					full_name: "Han Seung-yeon",
 					stage_name: "Seungyeon",
@@ -536,6 +579,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 45,
 					artist_id: 9,
 					full_name: "Jung Yong-joo",
 					stage_name: "Nicole",
@@ -548,6 +592,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 46,
 					artist_id: 9,
 					full_name: "Kang Ji-young",
 					stage_name: "Jiyoung",
@@ -560,6 +605,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 47,
 					artist_id: 9,
 					full_name: "Heo Young-ji",
 					stage_name: "Youngji",
@@ -572,6 +618,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 48,
 					artist_id: 10,
 					full_name: "Hwang Ye-ji",
 					stage_name: "Yeji",
@@ -584,6 +631,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 49,
 					artist_id: 10,
 					full_name: "Choi Ji-su",
 					stage_name: "Lia",
@@ -596,6 +644,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 50,
 					artist_id: 10,
 					full_name: "Shin Ryu-jin",
 					stage_name: "Ryujin",
@@ -608,6 +657,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 51,
 					artist_id: 10,
 					full_name: "Lee Chae-ryeong",
 					stage_name: "Chaeryeong",
@@ -620,6 +670,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 52,
 					artist_id: 10,
 					full_name: "Shin Yu-na",
 					stage_name: "Yuna",
@@ -632,6 +683,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 53,
 					artist_id: 11,
 					full_name: "Oh Hae-won",
 					stage_name: "Haewon",
@@ -644,6 +696,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 54,
 					artist_id: 11,
 					full_name: "Lily Jin Morrow",
 					stage_name: "Lily",
@@ -656,6 +709,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 55,
 					artist_id: 11,
 					full_name: "Seol Yoon-a",
 					stage_name: "Sullyoon",
@@ -668,6 +722,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 56,
 					artist_id: 11,
 					full_name: "Bae Jin-sol",
 					stage_name: "BAE",
@@ -680,6 +735,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 57,
 					artist_id: 11,
 					full_name: "Kim Ji-woo",
 					stage_name: "Jiwoo",
@@ -692,6 +748,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
+					id: 58,
 					artist_id: 11,
 					full_name: "Jang Kyu-jin",
 					stage_name: "Kyujin",
