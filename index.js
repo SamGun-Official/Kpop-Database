@@ -26,10 +26,12 @@ Jacket.associate({ Discography });
 Account.associate({ Favourite });
 Favourite.associate({ Account });
 
-const { artistSeeder } = require("./src/seeders/seeders");
+const { artistSeeder } = require("./src/seeders");
 
 /* ===== ROUTES ===== */
-// app.get("/api/artists", async (req, res) => {});
+const artistRouter = require("./src/routes/artist.routes");
+
+app.use("/api/artists", artistRouter);
 
 /* ===== DEFAULT ===== */
 const port = process.env.PORT;
@@ -40,9 +42,6 @@ const port = process.env.PORT;
 		app.listen(port, () => {
 			console.log(`Connected! Server running on http://localhost:${port}`);
 		});
-
-		await database.sync({ force: true });
-		await Artist.bulkCreate(artistSeeder);
 	} catch (error) {
 		console.error("Failure database connection: ", error.original);
 	}
