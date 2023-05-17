@@ -26,12 +26,16 @@ Jacket.associate({ Discography });
 Account.associate({ Favourite });
 Favourite.associate({ Account });
 
-const { artistSeeder } = require("./src/seeders");
-
 /* ===== ROUTES ===== */
 const artistRouter = require("./src/routes/artist.routes");
 
-app.use("/api/artists", artistRouter);
+app.use(process.env.BASE_URL + "/api/artists", artistRouter);
+
+app.get(process.env.BASE_URL, (req, res) => {
+	return res.status(200).send({
+		message: "This simple API was built by Samuel Gunawan in under 12 hours!",
+	});
+});
 
 /* ===== DEFAULT ===== */
 const port = process.env.PORT;
