@@ -5,7 +5,9 @@
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"start": "node index.js"
+		"start": "node index.js",
+		"db-migrate": "npx sequelize-cli db:migrate && npx sequelize-cli db:seed:all",
+		"db-reset": "npx sequelize-cli db:migrate:undo:all"
 	},
 	"engines": {
 		"node": "16.x"
@@ -32,10 +34,10 @@
 		"multer": "^1.4.5-lts.1",
 		"mysql2": "^3.2.4",
 		"nodemon": "^2.0.22",
-		"sequelize": "^6.31.1"
+		"sequelize": "^6.31.1",
+		"sequelize-cli": "^6.6.0"
 	},
 	"devDependencies": {
-		"@faker-js/faker": "^7.6.0",
-		"sequelize-cli": "^6.6.0"
+		"@faker-js/faker": "^7.6.0"
 	}
 }
