@@ -6,8 +6,8 @@
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"start": "node index.js",
-		"db-migrate": "npx sequelize-cli db:migrate && npx sequelize-cli db:seed:all",
-		"db-reset": "npx sequelize-cli db:migrate:undo:all"
+		"migrate": "npx sequelize-cli db:migrate && npx sequelize-cli db:seed:all",
+		"reset": "npx sequelize-cli db:migrate:undo:all"
 	},
 	"engines": {
 		"node": "16.x"
