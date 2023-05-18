@@ -66,7 +66,7 @@ module.exports = {
 				delete profile.deleted_at;
 			});
 
-			return res.status(200).send(listProfile[0]);
+			return res.status(200).send([listProfile[0]]);
 		} catch (error) {
 			return res.status(error.request ? error.request.res.statusCode : 400).send({ message: error.original ? error.original : error.message });
 		}
