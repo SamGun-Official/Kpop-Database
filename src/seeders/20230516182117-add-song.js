@@ -57,7 +57,7 @@ module.exports = {
 				{
 					id: 5,
 					discography_id: 1,
-					title: "BAMBOLEO",
+					title: "Good, Bad, Ugly",
 					year: 2022,
 					disc_number: null,
 					track_number: 5,
