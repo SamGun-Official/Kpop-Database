@@ -1099,7 +1099,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 93,
+					id: 92,
 					discography_id: 15,
 					title: "Intro: Save us",
 					year: 2022,
@@ -1111,7 +1111,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 94,
+					id: 93,
 					discography_id: 15,
 					title: "Locked Inside A Door",
 					year: 2022,
@@ -1123,7 +1123,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 95,
+					id: 94,
 					discography_id: 15,
 					title: "MAISON",
 					year: 2022,
@@ -1135,7 +1135,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 96,
+					id: 95,
 					discography_id: 15,
 					title: "Starlight",
 					year: 2022,
@@ -1147,7 +1147,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 97,
+					id: 96,
 					discography_id: 15,
 					title: "Together",
 					year: 2022,
@@ -1159,7 +1159,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 98,
+					id: 97,
 					discography_id: 15,
 					title: "Always",
 					year: 2022,
@@ -1171,7 +1171,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 99,
+					id: 98,
 					discography_id: 15,
 					title: "Skit: The seven door",
 					year: 2022,
@@ -1183,7 +1183,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 100,
+					id: 99,
 					discography_id: 15,
 					title: "Cherry (Real Miracle) (JI U SOLO)",
 					year: 2022,
@@ -1195,7 +1195,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 101,
+					id: 100,
 					discography_id: 15,
 					title: "No Dot (SU A SOLO)",
 					year: 2022,
@@ -1207,7 +1207,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 102,
+					id: 101,
 					discography_id: 15,
 					title: "Entracing (SIYEON SOLO)",
 					year: 2022,
@@ -1219,7 +1219,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 103,
+					id: 102,
 					discography_id: 15,
 					title: "Winter (HANDONG SOLO)",
 					year: 2022,
@@ -1231,7 +1231,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 104,
+					id: 103,
 					discography_id: 15,
 					title: "For (YOOHYEON SOLO)",
 					year: 2022,
@@ -1243,7 +1243,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 105,
+					id: 104,
 					discography_id: 15,
 					title: "Beauty Full (DAMI SOLO)",
 					year: 2022,
@@ -1255,7 +1255,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 106,
+					id: 105,
 					discography_id: 15,
 					title: "Playground (GAHYEON SOLO)",
 					year: 2022,
@@ -1267,7 +1267,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 107,
+					id: 106,
 					discography_id: 16,
 					title: "Kitsch",
 					year: 2023,
@@ -1279,7 +1279,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 108,
+					id: 107,
 					discography_id: 17,
 					title: "Blue Blood",
 					year: 2023,
@@ -1291,7 +1291,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 109,
+					id: 108,
 					discography_id: 17,
 					title: "I AM",
 					year: 2023,
@@ -1303,7 +1303,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 110,
+					id: 109,
 					discography_id: 17,
 					title: "Kitsch",
 					year: 2023,
@@ -1315,7 +1315,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 111,
+					id: 110,
 					discography_id: 17,
 					title: "Lips",
 					year: 2023,
@@ -1327,7 +1327,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 112,
+					id: 111,
 					discography_id: 17,
 					title: "Heroine",
 					year: 2023,
@@ -1339,7 +1339,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 113,
+					id: 112,
 					discography_id: 17,
 					title: "Mine",
 					year: 2023,
@@ -1351,7 +1351,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 114,
+					id: 113,
 					discography_id: 17,
 					title: "섬찟 (Hypnosis)",
 					year: 2023,
@@ -1363,7 +1363,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 115,
+					id: 114,
 					discography_id: 17,
 					title: "NOT YOUR GIRL",
 					year: 2023,
@@ -1375,7 +1375,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 116,
+					id: 115,
 					discography_id: 17,
 					title: "궁금해 (Next Page)",
 					year: 2023,
@@ -1387,7 +1387,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 117,
+					id: 116,
 					discography_id: 17,
 					title: "Cherish",
 					year: 2023,
@@ -1399,7 +1399,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 118,
+					id: 117,
 					discography_id: 17,
 					title: "Shine With Me",
 					year: 2023,
@@ -1411,7 +1411,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 119,
+					id: 118,
 					discography_id: 18,
 					title: "WAVE",
 					year: 2023,
@@ -1423,7 +1423,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 120,
+					id: 119,
 					discography_id: 19,
 					title: "The World is My Oyster",
 					year: 2022,
@@ -1435,7 +1435,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 121,
+					id: 120,
 					discography_id: 19,
 					title: "FEARLESS",
 					year: 2022,
@@ -1447,7 +1447,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 122,
+					id: 121,
 					discography_id: 19,
 					title: "Blue Frame",
 					year: 2022,
@@ -1459,7 +1459,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 123,
+					id: 122,
 					discography_id: 19,
 					title: "The Great Mermaid",
 					year: 2022,
@@ -1471,7 +1471,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 124,
+					id: 123,
 					discography_id: 19,
 					title: "Sour Grapes",
 					year: 2022,
@@ -1483,7 +1483,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 125,
+					id: 124,
 					discography_id: 20,
 					title: "The Hydra",
 					year: 2022,
@@ -1495,7 +1495,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 126,
+					id: 125,
 					discography_id: 20,
 					title: "ANTIFRAGILE",
 					year: 2022,
@@ -1507,7 +1507,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 127,
+					id: 126,
 					discography_id: 20,
 					title: "Impurities",
 					year: 2022,
@@ -1519,7 +1519,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 128,
+					id: 127,
 					discography_id: 20,
 					title: "No Celestial",
 					year: 2022,
@@ -1531,7 +1531,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 129,
+					id: 128,
 					discography_id: 20,
 					title: "Good Parts (when the quality is bad but I am)",
 					year: 2022,
@@ -1543,7 +1543,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 130,
+					id: 129,
 					discography_id: 21,
 					title: "The World Is My Oyster (2023 Ver.)",
 					year: 2023,
@@ -1555,7 +1555,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 131,
+					id: 130,
 					discography_id: 21,
 					title: "FEARLESS (2023 Ver.)",
 					year: 2023,
@@ -1567,7 +1567,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 132,
+					id: 131,
 					discography_id: 21,
 					title: "Blue Frame (2023 Ver.)",
 					year: 2023,
@@ -1579,7 +1579,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 133,
+					id: 132,
 					discography_id: 21,
 					title: "The Hydra",
 					year: 2023,
@@ -1591,7 +1591,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 134,
+					id: 133,
 					discography_id: 21,
 					title: "ANTIFRAGILE",
 					year: 2023,
@@ -1603,7 +1603,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 135,
+					id: 134,
 					discography_id: 21,
 					title: "Impurities",
 					year: 2023,
@@ -1615,7 +1615,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 136,
+					id: 135,
 					discography_id: 21,
 					title: "Burn The Bridge",
 					year: 2023,
@@ -1627,7 +1627,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 137,
+					id: 136,
 					discography_id: 21,
 					title: "UNFORGIVEN (feat. Nile Rodgers)",
 					year: 2023,
@@ -1639,7 +1639,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 138,
+					id: 137,
 					discography_id: 21,
 					title: "No-Return (Into the unknown)",
 					year: 2023,
@@ -1651,7 +1651,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 139,
+					id: 138,
 					discography_id: 21,
 					title: "Eve, Psyche & The Bluebeard's wife",
 					year: 2023,
@@ -1663,9 +1663,9 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 140,
+					id: 139,
 					discography_id: 21,
-					title: "FEARNOT (Between you, me and the lamppost",
+					title: "FEARNOT (Between you, me and the lamppost)",
 					year: 2023,
 					disc_number: null,
 					track_number: 11,
@@ -1675,7 +1675,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 141,
+					id: 140,
 					discography_id: 21,
 					title: "Flash Forward",
 					year: 2023,
@@ -1687,7 +1687,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 142,
+					id: 141,
 					discography_id: 21,
 					title: "Fire in the belly",
 					year: 2023,
@@ -1699,7 +1699,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 143,
+					id: 142,
 					discography_id: 22,
 					title: "Celebrity",
 					year: 2021,
@@ -1711,7 +1711,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 144,
+					id: 143,
 					discography_id: 23,
 					title: "LILAC",
 					year: 2021,
@@ -1723,7 +1723,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 145,
+					id: 144,
 					discography_id: 23,
 					title: "Flu",
 					year: 2021,
@@ -1735,7 +1735,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 146,
+					id: 145,
 					discography_id: 23,
 					title: "Coin",
 					year: 2021,
@@ -1747,7 +1747,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 147,
+					id: 146,
 					discography_id: 23,
 					title: "Hi spring Bye",
 					year: 2021,
@@ -1759,7 +1759,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 148,
+					id: 147,
 					discography_id: 23,
 					title: "Celebrity",
 					year: 2021,
@@ -1771,7 +1771,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 149,
+					id: 148,
 					discography_id: 23,
 					title: "Troll (Feat. DEAN)",
 					year: 2021,
@@ -1783,7 +1783,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 150,
+					id: 149,
 					discography_id: 23,
 					title: "Empty Cup",
 					year: 2021,
@@ -1795,7 +1795,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 151,
+					id: 150,
 					discography_id: 23,
 					title: "My sea",
 					year: 2021,
@@ -1807,7 +1807,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 152,
+					id: 151,
 					discography_id: 23,
 					title: "Ah puh",
 					year: 2021,
@@ -1819,7 +1819,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 153,
+					id: 152,
 					discography_id: 23,
 					title: "Epilogue",
 					year: 2021,
@@ -1831,7 +1831,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 154,
+					id: 153,
 					discography_id: 24,
 					title: "Drama",
 					year: 2021,
@@ -1843,7 +1843,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 155,
+					id: 154,
 					discography_id: 24,
 					title: "Next Stop",
 					year: 2021,
@@ -1855,7 +1855,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 156,
+					id: 155,
 					discography_id: 24,
 					title: "Winter Sleep",
 					year: 2021,
@@ -1867,7 +1867,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 157,
+					id: 156,
 					discography_id: 24,
 					title: "You",
 					year: 2021,
@@ -1879,7 +1879,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 158,
+					id: 157,
 					discography_id: 24,
 					title: "Love Letter",
 					year: 2021,
@@ -1891,7 +1891,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 159,
+					id: 158,
 					discography_id: 25,
 					title: "Happy Hour",
 					year: 2022,
@@ -1903,7 +1903,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 160,
+					id: 159,
 					discography_id: 25,
 					title: "WHEN I MOVE",
 					year: 2022,
@@ -1915,7 +1915,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 161,
+					id: 160,
 					discography_id: 25,
 					title: "Shout It Out",
 					year: 2022,
@@ -1927,7 +1927,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 162,
+					id: 161,
 					discography_id: 25,
 					title: "Oxygen",
 					year: 2022,
@@ -1939,7 +1939,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 163,
+					id: 162,
 					discography_id: 26,
 					title: "SNEAKERS",
 					year: 2022,
@@ -1951,7 +1951,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 164,
+					id: 163,
 					discography_id: 26,
 					title: "RACER",
 					year: 2022,
@@ -1963,7 +1963,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 165,
+					id: 164,
 					discography_id: 26,
 					title: "WHAT I WANT",
 					year: 2022,
@@ -1975,7 +1975,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 166,
+					id: 165,
 					discography_id: 26,
 					title: "Free Fall",
 					year: 2022,
@@ -1987,7 +1987,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 167,
+					id: 166,
 					discography_id: 26,
 					title: "365",
 					year: 2022,
@@ -1999,7 +1999,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 168,
+					id: 167,
 					discography_id: 26,
 					title: "DOMINO",
 					year: 2022,
@@ -2011,7 +2011,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 169,
+					id: 168,
 					discography_id: 26,
 					title: "SNEAKERS (English Ver.)",
 					year: 2022,
@@ -2023,7 +2023,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 170,
+					id: 169,
 					discography_id: 27,
 					title: "Blah Blah Blah",
 					year: 2022,
@@ -2035,7 +2035,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 171,
+					id: 170,
 					discography_id: 27,
 					title: "Can't tie me down",
 					year: 2022,
@@ -2047,7 +2047,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 172,
+					id: 171,
 					discography_id: 27,
 					title: "Blah Blah Blah - Instrumental",
 					year: 2022,
@@ -2059,7 +2059,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 173,
+					id: 172,
 					discography_id: 27,
 					title: "Can't tie me down - Instrumental",
 					year: 2022,
@@ -2071,7 +2071,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 174,
+					id: 173,
 					discography_id: 28,
 					title: "Cheshire",
 					year: 2022,
@@ -2083,7 +2083,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 175,
+					id: 174,
 					discography_id: 28,
 					title: "Snowy",
 					year: 2022,
@@ -2095,7 +2095,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 176,
+					id: 175,
 					discography_id: 28,
 					title: "Freaky",
 					year: 2022,
@@ -2107,7 +2107,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 177,
+					id: 176,
 					discography_id: 28,
 					title: "Boys Like You",
 					year: 2022,
@@ -2119,7 +2119,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 178,
+					id: 177,
 					discography_id: 29,
 					title: "TANK",
 					year: 2022,
@@ -2131,7 +2131,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 179,
+					id: 178,
 					discography_id: 29,
 					title: "O.O",
 					year: 2022,
@@ -2143,7 +2143,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 180,
+					id: 179,
 					discography_id: 29,
 					title: "TANK (Inst.)",
 					year: 2022,
@@ -2155,7 +2155,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 181,
+					id: 180,
 					discography_id: 29,
 					title: "O.O (Inst.)",
 					year: 2022,
@@ -2167,7 +2167,7 @@ module.exports = {
 					deleted_at: null,
 				},
 				{
-					id: 182,
+					id: 181,
 					discography_id: 30,
 					title: "Funky Glitter Christmas",
 					year: 2022,
