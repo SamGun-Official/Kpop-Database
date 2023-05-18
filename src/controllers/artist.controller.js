@@ -66,6 +66,39 @@ module.exports = {
 			return res.status(error.request ? error.request.res.statusCode : 400).send({ message: error.original ? error.original : error.message });
 		}
 	},
+	getByID: async function (req, res) {
+		try {
+			const listArtist = await db.Artist.findAll({
+				where: {
+					id: {
+						[Op.eq]: req.params.artist_id,
+					},
+				},
+				raw: true,
+			});
+			if (listArtist.length <= 0) {
+				throw {
+					request: {
+						res: {
+							statusCode: 404,
+						},
+					},
+					original: "No artist was found!",
+					message: "No artist was found!",
+				};
+			}
+
+			listArtist.forEach((artist) => {
+				delete artist.created_at;
+				delete artist.updated_at;
+				delete artist.deleted_at;
+			});
+
+			return res.status(200).send(listArtist);
+		} catch (error) {
+			return res.status(error.request ? error.request.res.statusCode : 400).send({ message: error.original ? error.original : error.message });
+		}
+	},
 	addNew: async function (req, res) {
 		try {
 			// Missing validation
