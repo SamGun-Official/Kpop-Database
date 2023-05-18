@@ -3,9 +3,11 @@ require("dotenv").config();
 
 const database = require("./src/config/connection");
 const express = require("express");
+const cors = require("cors");
 const app = express();
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
+app.use(cors());
 
 /* ===== ORM ===== */
 const Artist = require("./src/models/artist")(database);

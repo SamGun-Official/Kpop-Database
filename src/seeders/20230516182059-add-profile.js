@@ -433,7 +433,7 @@ module.exports = {
 				{
 					id: 54,
 					artist_id: 8,
-					profile_pic_url: "https://kpopping.com/documents/a8/1/2985/220918-IU-The-Golden-Hour-Concert-documents-15(11).jpeg?v=a7acc",
+					profile_pic_url: "https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34",
 					created_at: new Date(),
 					updated_at: new Date(),
 					deleted_at: null,
@@ -441,7 +441,7 @@ module.exports = {
 				{
 					id: 55,
 					artist_id: 9,
-					profile_pic_url: "https://kpopping.com/documents/ab/3/850/KARA-fullPicture(5).webp?v=74676",
+					profile_pic_url: "https://i.scdn.co/image/ab6761610000e5eb05b57a10802bacfdfb26afa0",
 					created_at: new Date(),
 					updated_at: new Date(),
 					deleted_at: null,
