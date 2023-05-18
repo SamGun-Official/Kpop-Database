@@ -2,9 +2,17 @@ const db = require("../models/index");
 const { Op } = require("sequelize");
 
 module.exports = {
-	getAll: async function (req, res) {
+	getByArtist: async function (req, res) {
 		try {
-			const listDiscography = await db.Discography.findAll({ raw: true });
+			const artist_id = req.params.artist_id;
+			const listDiscography = await db.Discography.findAll({
+				where: {
+					artist_id: {
+						[Op.eq]: artist_id,
+					},
+				},
+				raw: true,
+			});
 			if (listDiscography.length <= 0) {
 				throw {
 					request: {

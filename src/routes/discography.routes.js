@@ -4,7 +4,7 @@ const router = express.Router();
 const controller = require("../controllers/discography.controller");
 
 /* ===== ROUTES ===== */
-router.get("/", controller.getAll);
+router.get("/:artist_id", controller.getByArtist);
 router.get("/search", controller.getBySearch);
 
 module.exports = router;
