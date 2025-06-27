@@ -27,7 +27,7 @@
 	"homepage": "https://github.com/SamGun-Official/Kpop-Database#readme",
 	"dependencies": {
 		"@joi/date": "^2.1.0",
-		"axios": "^1.4.0",
+		"axios": "^1.8.2",
 		"cors": "^2.8.5",
 		"dotenv": "^16.0.3",
 		"express": "^4.18.2",
